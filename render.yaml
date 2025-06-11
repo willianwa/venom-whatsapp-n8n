@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: venom-whatsapp
+    env: docker
+    plan: free
+    autoDeploy: true
